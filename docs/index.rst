@@ -6,3 +6,17 @@ Welcome to TTN-Cookbook!
 .. note::
 
    This project is under active development.
+   
+Contents
+--------
+
+.. toctree::
+
+   coverage
+   
+
+
+Documentation
+-------------
+
+Check out the :doc:`coverage` section for further information.
